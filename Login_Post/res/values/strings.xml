@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login_Post</string>
+    <string name="action_settings">setting</string>
+    
+    <string name="username">UserName</string>
+    <string name="username_input">Input Username</string>
+	<string name="password">Password</string>
+	<string name="password_input">Input Password</string>
+	
+	<string name="sure">sure</string>
+	<string name="response">post 请求响应数据\n上面是一个WebView展示</string>
+    
+</resources>
